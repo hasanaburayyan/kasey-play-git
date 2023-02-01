@@ -1,3 +1,5 @@
 print("hello world!")
 print("sup?")
 print("whats up?")
+print("how are you?")
+print("I'm fine")
